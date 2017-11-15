@@ -1,0 +1,18 @@
+{
+    "cognitive_atlas_task_id": "trm_566748c929afc",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/discount-titrate",
+    "contributors": [
+        "Zeynep Enkavi",
+        "Ian Eisenberg",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "discount-titrate",
+    "name": "Discount Titrate: Intertemporal Choice",
+    "reference": ["http://www.nature.com/neuro/journal/v13/n5/extref/nn.2516-S1.pdf"],
+    "template": "jspsych",
+    "time": 5
+}
